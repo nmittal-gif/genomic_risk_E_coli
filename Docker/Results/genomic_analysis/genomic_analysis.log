@@ -1,0 +1,19 @@
+2026-03-25 17:41:20,499 | INFO | Logging initialized. Saving to: /app/Results/genomic_analysis
+2026-03-25 17:41:20,500 | INFO | Successfully created/verified genomic_analysis directory at: /app/Results/genomic_analysis
+2026-03-25 17:41:20,500 | INFO | ===== GENOMIC ANALYSIS STARTED =====
+2026-03-25 17:42:07,607 | INFO | --- Genome Length Statistics ---
+2026-03-25 17:42:07,608 | INFO | Minimum genome length: 4454210
+2026-03-25 17:42:07,608 | INFO | Maximum genome length: 6107920
+2026-03-25 17:42:07,608 | INFO | Mean genome length: 5218520.31
+2026-03-25 17:42:07,609 | INFO | Median genome length: 5182390.0
+2026-03-25 17:42:07,609 | INFO | Genome with minimum length: GCA_024730765.1.fna
+2026-03-25 17:42:07,609 | INFO | Genome with maximum length: GCA_027925825.1.fna
+2026-03-25 17:42:07,609 | INFO | --- GC Content Statistics ---
+2026-03-25 17:42:07,610 | INFO | Minimum GC Content: 50.17%
+2026-03-25 17:42:07,610 | INFO | Maximum GC Content: 57.25%
+2026-03-25 17:42:07,610 | INFO | Mean GC Content: 50.66%
+2026-03-25 17:42:07,610 | INFO | Median GC Content: 50.65%
+2026-03-25 17:42:07,610 | INFO | Genome with minimum GC: GCF_052908065.1.fna
+2026-03-25 17:42:07,611 | INFO | Genome with maximum GC: GCA_025790905.1.fna
+2026-03-25 17:42:07,614 | INFO | Genome metrics table saved: /app/Results/genomic_analysis/genome_metrics.csv
+2026-03-25 17:42:08,785 | INFO | Both distribution plots saved successfully.

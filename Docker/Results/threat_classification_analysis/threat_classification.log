@@ -1,0 +1,18 @@
+2026-03-25 19:16:21,785 | INFO | Starting genome threat classification...
+2026-03-25 19:16:21,841 | INFO | Loaded virulence data (465 rows) and AMR data (465 rows).
+2026-03-25 19:16:21,889 | INFO | Successfully merged Virulence and AMR datasets.
+2026-03-25 19:16:25,137 | INFO | Successfully processed and assigned threat levels to 465 genomes.
+2026-03-25 19:16:25,231 | INFO | Analysis complete. Results saved to /app/Results/threat_classification_analysis/final_threat_classification.csv
+2026-03-25 19:16:25,282 | INFO | Starting visualization of Threat Categories...
+2026-03-25 19:16:25,282 | INFO | Data Profile: 465 Genomes analyzed.
+2026-03-25 19:16:25,282 | INFO | Virulence Profile: 328 genes detected (Markers: NUM_FOUND_x).
+2026-03-25 19:16:25,283 | INFO | AMR Profile: 167 genes detected (Markers: NUM_FOUND_y).
+2026-03-25 19:16:25,283 | INFO | Total Unique Targets: 495 genes.
+2026-03-25 19:16:25,284 | INFO | Category 0 count for visualization: 159
+2026-03-25 19:16:25,284 | INFO | Category 1 count for visualization: 8
+2026-03-25 19:16:25,284 | INFO | Category 2 count for visualization: 296
+2026-03-25 19:16:25,285 | INFO | Category 3 count for visualization: 2
+2026-03-25 19:16:25,285 | INFO | Generating Threat Category Bar Chart...
+2026-03-25 19:16:25,705 | INFO | Bar Chart generated successfully and saved to /app/Results/threat_classification_analysis/genome_threat_distribution_barplot.png
+2026-03-25 19:16:25,705 | INFO | Generating Threat Category Pie Chart...
+2026-03-25 19:16:26,070 | INFO | Bar Chart generated successfully and saved to /app/Results/threat_classification_analysis/genome_threat_distribution_piechart.png

@@ -1,0 +1,18 @@
+2026-03-25 19:16:27,516 | INFO | ===== THREAT REGISTRY FINALIZATION STARTED =====
+2026-03-25 19:16:27,516 | INFO | Loading classification data
+2026-03-25 19:16:27,578 | INFO | Loaded 465 genomes from classification file
+2026-03-25 19:16:27,578 | INFO | Detected 328 virulence genes
+2026-03-25 19:16:27,578 | INFO | Detected 167 AMR genes
+2026-03-25 19:16:29,337 | INFO | Metadata mapping completed: 465/465 genomes matched
+2026-03-25 19:16:29,371 | INFO | Final registry exported: /app/Results/classification_statistics/Final_Genomic_Threat_Registry.csv
+2026-03-25 19:16:29,371 | INFO | ===== THREAT REGISTRY FINALIZATION COMPLETED =====
+2026-03-25 19:16:29,446 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,453 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,516 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,520 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,521 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,543 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,548 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,605 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,608 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-25 19:16:29,609 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
