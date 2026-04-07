@@ -124,3 +124,7 @@ Execution Methods
  - `matplotlib`
  - `seaborn`
  - `scipy`
+
+## 👩‍💻Author
+
+Neha Mittal
