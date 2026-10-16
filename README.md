@@ -1,8 +1,25 @@
 [Genomic_Risk_Readme.md](https://github.com/user-attachments/files/26550406/Genomic_Risk_Readme.md)
 ### Genomic Risk Analysis Pipeline
 
-This pipeline automates genome download, metadata processing, AMR detection, virulence analysis, and threat classification. It produces a final genomic threat registry, along with statistical analysis and visualizations.
-Execution Methods
+A Python/Bash-based bioinformatics pipeline for analyzing Escherichia coli genomic data, integrating genome metadata, antimicrobial resistance (AMR) markers, and virulence-associated features to generate structured genomic risk-assessment reports.
+
+Key capabilities
+
+Genome data acquisition and metadata processing
+
+AMR and virulence feature analysis
+
+Rule-based genomic risk classification
+
+Structured tabular outputs and summary reports
+
+Docker-based execution for reproducibility
+
+The project emphasizes modular workflow design, genomic data processing, and reproducible bioinformatics analysis.
+
+Technologies: Python, Bash, Docker, bioinformatics tools, and genomic reference databases.
+
+Execution Methods:
 
 ### You can run the pipeline in two ways:
 
