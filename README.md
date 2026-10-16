@@ -1,5 +1,5 @@
-[Genomic_Risk_Readme.md](https://github.com/user-attachments/files/26550406/Genomic_Risk_Readme.md)
 ### Genomic Risk Analysis Pipeline
+Description: 
 
 A Python/Bash-based bioinformatics pipeline for analyzing Escherichia coli genomic data, integrating genome metadata, antimicrobial resistance (AMR) markers, and virulence-associated features to generate structured genomic risk-assessment reports.
 
@@ -142,6 +142,8 @@ Execution Methods:
  - `matplotlib`
  - `seaborn`
  - `scipy`
+
+[Genomic_Risk_Readme.md](https://github.com/user-attachments/files/26550406/Genomic_Risk_Readme.md)
 
 ## 👩‍💻Author
 
